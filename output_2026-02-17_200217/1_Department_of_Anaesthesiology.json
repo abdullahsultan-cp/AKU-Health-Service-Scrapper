@@ -1,0 +1,828 @@
+{
+  "url": "https://hospitals.aku.edu/pakistan/Health-Services/department-of-anaesthesiology/Pages/default.aspx",
+  "page_title": "Department of Anaesthesiology",
+  "breadcrumb": "The Aga Khan University Hospital, Pakistan > Health Services",
+  "has_h1_title": true,
+  "body_content": {
+    "main_paragraphs": "The Department of Anaesthesiology at The Aga Khan University Hospital provides anaesthesia and other OR facilities for all surgical procedures. They are also part of the team that provides intensive care to critically ill patients in the surgical intensive care unit (SICU).\n\nThe department has a mix of skilled anaesthesiologists (doctors specially trained to keep you unconscious and free of pain during the surgery or help you manage long-term pain), qualified nurses and highly trained anaesthesia and surgical technicians. We are committed to delivering compassionate, ethical, accessible and high-quality care to all patients requiring anaesthesia, intensive care and pain services.\n\nThe Department of Anaesthesia offers acute and chronic pain management services in both inpatient and outpatient settings. Pain management is a branch of medicine that helps ease the suffering and enhance the quality of life for people experiencing intense and often recurring pain for conditions such as joint pain, cancer-related pain, post-amputation pain, facial pain, and chronic back, neck and shoulder pain. Patients are offered different interventions for pain management including epidural and nerve blocks, facet joint and sacroiliac joint blocks, neurolytic blocks, and radiofrequency procedures.\n\nAnother outpatient service under the Department of Anaesthesiology is the Pre-Operative Anaesthesia Clinic, for patients who are scheduled for surgery. It is run by a qualified team of anaesthesiologists and nursing staff and serves as the first step to screen, evaluate and optimise anaesthesia care for patients before surgery, making sure that the patients are ready to undergo the physical stress of surgery.\n\nRequest an Appointment:\n\nClick here to request an appointment online, call to book an appointment: (021)111911911 or use our Family Hifazat APP to self-book.",
+    "has_appointment_section": true,
+    "word_count": 273,
+    "has_subheadings": true,
+    "subheading_tags": [
+      "h4"
+    ],
+    "has_bullet_lists": true,
+    "has_collapsible_sections": false
+  },
+  "subsection_links": {
+    "present": false,
+    "count": 0,
+    "links": []
+  },
+  "faculty_links": {
+    "count": 2,
+    "pattern": "multiple",
+    "links": [
+      {
+        "text": "General Anaesthesia",
+        "url": "/pakistan/patientservices/pages/findadoctor.aspx?Spec=General%20Anaesthesia",
+        "specialty": "General%20Anaesthesia"
+      },
+      {
+        "text": "Find a Doctor",
+        "url": "/pakistan/patientservices/Pages/findadoctor.aspx",
+        "specialty": ""
+      }
+    ]
+  },
+  "appointment_section": {
+    "present": true,
+    "components": {
+      "heading": "Request an Appointment",
+      "click_here_link": {
+        "present": false,
+        "text": "",
+        "url": ""
+      },
+      "phone_number": "",
+      "family_hifazat": {
+        "main_link_present": false,
+        "google_play_button": false,
+        "app_store_button": false
+      }
+    }
+  },
+  "external_links": [
+    {
+      "text": "Turn on more accessible mode",
+      "url": "#",
+      "type": "internal"
+    },
+    {
+      "text": "Turn off more accessible mode",
+      "url": "#",
+      "type": "internal"
+    },
+    {
+      "text": "Skip Ribbon Commands",
+      "url": "javascript:;",
+      "type": "internal"
+    },
+    {
+      "text": "Skip to main content",
+      "url": "javascript:;",
+      "type": "internal"
+    },
+    {
+      "text": "Turn off Animations",
+      "url": "#",
+      "type": "internal"
+    },
+    {
+      "text": "Turn on Animations",
+      "url": "#",
+      "type": "internal"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://hospitals.aku.edu/pakistan/Health-Services/department-of-anaesthesiology/_layouts/15/Authenticate.aspx?Source=%2Fpakistan%2FHealth%2DServices%2Fdepartment%2Dof%2Danaesthesiology%2FPages%2Fdefault%2Easpx",
+      "type": "internal"
+    },
+    {
+      "text": "Follow",
+      "url": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$site_follow_button\", \"\", true, \"\", \"\", false, true))",
+      "type": "internal"
+    },
+    {
+      "text": "The Aga Khan University Hospital, PakistanCurrently selected",
+      "url": "/pakistan/pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "About Us",
+      "url": "/pakistan/AboutUs/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "About AKUH",
+      "url": "/pakistan/AboutUs/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Welcome by CEO, AKUH, Pakistan",
+      "url": "/pakistan/AboutUs/Pages/welcome-by-ceo-akuh-pakistan.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Vision, Mission and Values",
+      "url": "/pakistan/AboutUs/Pages/vision.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Accreditations",
+      "url": "/pakistan/AboutUs/Pages/Accreditations.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan University Hospital, Karachi, Main Campus",
+      "url": "/pakistan/karachi/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Private Wing - Princess Zahra Pavilion",
+      "url": "/pakistan/karachi/Pages/NPW.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Facilities",
+      "url": "/pakistan/karachi/Pages/hospital-facilities.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Guide",
+      "url": "/pakistan/karachi/Pages/hospital-guide.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Admissions (Inpatient Services)",
+      "url": "/pakistan/karachi/Pages/hospital-admissions.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinics",
+      "url": "/pakistan/karachi/Pages/clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Specialized Clinics (Outpatients)",
+      "url": "/pakistan/karachi/Pages/specialized-clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan Hospital for Women, Garden",
+      "url": "/pakistan/Garden/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan Hospital for Women, Karimabad",
+      "url": "/pakistan/Karimabad/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Facilities",
+      "url": "/pakistan/Karimabad/Pages/Hospital-Facilities.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Guide",
+      "url": "/pakistan/Karimabad/Pages/hospital-guide.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Admissions",
+      "url": "/pakistan/Karimabad/Pages/hospital-admissions.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinics",
+      "url": "/pakistan/Karimabad/Pages/clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinic Schedule",
+      "url": "/pakistan/Karimabad/Pages/Clinic-Schedule.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan Hospital for Women and Children, Kharadar",
+      "url": "/pakistan/Kharadar/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Facilities",
+      "url": "/pakistan/Kharadar/Pages/hospital-facility.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Guide",
+      "url": "/pakistan/Kharadar/Pages/hospital-guide.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Diagnostic and Laboratory Services",
+      "url": "/pakistan/Kharadar/Pages/diagnostic-and-laboratory-services.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Admissions",
+      "url": "/pakistan/Kharadar/Pages/hospital-admissions.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinics",
+      "url": "/pakistan/Kharadar/Pages/clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinic Schedule",
+      "url": "/pakistan/Kharadar/Pages/clinic-schedule.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan Maternal and Child Care Centre, Hyderabad",
+      "url": "/pakistan/Hyderabad/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Facilities",
+      "url": "/pakistan/Hyderabad/Pages/hospital-facilities.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Guide",
+      "url": "/pakistan/Hyderabad/Pages/hospital-guide.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Obstetrics and Gynecology Services",
+      "url": "/pakistan/Hyderabad/Pages/obstetrics-and-gynecology-services.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Admissions",
+      "url": "/pakistan/Hyderabad/Pages/hospital-admissions.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinics",
+      "url": "/pakistan/Hyderabad/Pages/patient-clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinic Schedule",
+      "url": "/pakistan/Hyderabad/Pages/Clinic-Schedule.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Medical Centres and Clinical Laboratories",
+      "url": "/pakistan/medical-and-diagnostics/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinical Laboratories",
+      "url": "/pakistan/medical-and-diagnostics/clinical-labs/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinical Laboratories Packages",
+      "url": "/pakistan/patients-families/health-packages/Pages/clinical-laboratories-packages.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Lab Sample Collection Request",
+      "url": "/pakistan/Pages/Sample-Collection.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Find Your Nearest Laboratory",
+      "url": "/pakistan/Pages/Find-a-Location.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Our Laboratory Tests",
+      "url": "/pakistan/Pages/Lab-Tests-Directory.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Medical Centres",
+      "url": "/pakistan/medical-and-diagnostics/medical-centres/medical-centres/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clifton Medical Services",
+      "url": "/pakistan/medical-and-diagnostics/medical-centres/clifton-medical-services/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Pharmacies",
+      "url": "/pakistan/medical-and-diagnostics/Pages/Pharmacies.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Health Solutions",
+      "url": "/pakistan/health-solutions/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinics",
+      "url": "/pakistan/health-solutions/Pages/clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Health Packages",
+      "url": "/pakistan/health-solutions/Pages/healthpackages.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Treatments and Services",
+      "url": "/pakistan/health-solutions/Pages/treatmentsandservices.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Home Health Services",
+      "url": "/pakistan/health-solutions/Pages/home-health-services.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Second Opinion Services",
+      "url": "/pakistan/health-solutions/Pages/second-opinion-services.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Medical Tourism Solutions",
+      "url": "/pakistan/health-solutions/Pages/medical-tourism.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Patient Services",
+      "url": "/pakistan/ForPatientAndVisitors/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Prepare for Your Visit",
+      "url": "/pakistan/patients-families/prepare-for-your-visit/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Payment Options",
+      "url": "/pakistan/patients-families/Pages/view-payment-options.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Concierge Services",
+      "url": "/pakistan/patients-families/Pages/international-patients-concierge-services.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Referral Services",
+      "url": "/pakistan/patients-families/Pages/patient-referral-and-information-offices.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Patient Welfare",
+      "url": "/pakistan",
+      "type": "internal"
+    },
+    {
+      "text": "Welfare Support",
+      "url": "/pakistan/patients-families/welfare-zakat-assistance/Pages/welfare-programme.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Zakat Support",
+      "url": "/pakistan/patients-families/welfare-zakat-assistance/Pages/the-patients-behbud-society-for-the-aga-khan-university-hospital.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "How to Apply",
+      "url": "/pakistan/patients-families/welfare-zakat-assistance/Pages/how-to-apply.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Donate and Support",
+      "url": "https://giving.aku.edu/",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan University",
+      "url": "https://www.aku.edu",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan University Hospitals",
+      "url": "https://hospitals.aku.edu/",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan University",
+      "url": "https://www.aku.edu",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan University Hospitals",
+      "url": "https://hospitals.aku.edu/",
+      "type": "internal"
+    },
+    {
+      "text": "Numbers",
+      "url": "/pakistan/Pages/contact-numbers.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Locations",
+      "url": "/pakistan/Pages/Find-a-Location.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Appointments",
+      "url": "/pakistan/Pages/Request-an-Appointment.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Feedback",
+      "url": "/pakistan/patients-families/Pages/appreciation-and-complaints.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "The Aga Khan University Hospital, PakistanCurrently selected",
+      "url": "/pakistan/pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "About Us",
+      "url": "/pakistan/AboutUs/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "About AKUH",
+      "url": "/pakistan/AboutUs/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Welcome by CEO, AKUH, Pakistan",
+      "url": "/pakistan/AboutUs/Pages/welcome-by-ceo-akuh-pakistan.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Vision, Mission and Values",
+      "url": "/pakistan/AboutUs/Pages/vision.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Accreditations",
+      "url": "/pakistan/AboutUs/Pages/Accreditations.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan University Hospital, Karachi, Main Campus",
+      "url": "/pakistan/karachi/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Private Wing - Princess Zahra Pavilion",
+      "url": "/pakistan/karachi/Pages/NPW.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Facilities",
+      "url": "/pakistan/karachi/Pages/hospital-facilities.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Guide",
+      "url": "/pakistan/karachi/Pages/hospital-guide.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Admissions (Inpatient Services)",
+      "url": "/pakistan/karachi/Pages/hospital-admissions.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinics",
+      "url": "/pakistan/karachi/Pages/clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Specialized Clinics (Outpatients)",
+      "url": "/pakistan/karachi/Pages/specialized-clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan Hospital for Women, Garden",
+      "url": "/pakistan/Garden/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan Hospital for Women, Karimabad",
+      "url": "/pakistan/Karimabad/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Facilities",
+      "url": "/pakistan/Karimabad/Pages/Hospital-Facilities.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Guide",
+      "url": "/pakistan/Karimabad/Pages/hospital-guide.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Admissions",
+      "url": "/pakistan/Karimabad/Pages/hospital-admissions.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinics",
+      "url": "/pakistan/Karimabad/Pages/clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinic Schedule",
+      "url": "/pakistan/Karimabad/Pages/Clinic-Schedule.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan Hospital for Women and Children, Kharadar",
+      "url": "/pakistan/Kharadar/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Facilities",
+      "url": "/pakistan/Kharadar/Pages/hospital-facility.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Guide",
+      "url": "/pakistan/Kharadar/Pages/hospital-guide.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Diagnostic and Laboratory Services",
+      "url": "/pakistan/Kharadar/Pages/diagnostic-and-laboratory-services.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Admissions",
+      "url": "/pakistan/Kharadar/Pages/hospital-admissions.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinics",
+      "url": "/pakistan/Kharadar/Pages/clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinic Schedule",
+      "url": "/pakistan/Kharadar/Pages/clinic-schedule.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan Maternal and Child Care Centre, Hyderabad",
+      "url": "/pakistan/Hyderabad/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Facilities",
+      "url": "/pakistan/Hyderabad/Pages/hospital-facilities.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Guide",
+      "url": "/pakistan/Hyderabad/Pages/hospital-guide.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Obstetrics and Gynecology Services",
+      "url": "/pakistan/Hyderabad/Pages/obstetrics-and-gynecology-services.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Hospital Admissions",
+      "url": "/pakistan/Hyderabad/Pages/hospital-admissions.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinics",
+      "url": "/pakistan/Hyderabad/Pages/patient-clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinic Schedule",
+      "url": "/pakistan/Hyderabad/Pages/Clinic-Schedule.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Medical Centres and Clinical Laboratories",
+      "url": "/pakistan/medical-and-diagnostics/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinical Laboratories",
+      "url": "/pakistan/medical-and-diagnostics/clinical-labs/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinical Laboratories Packages",
+      "url": "/pakistan/patients-families/health-packages/Pages/clinical-laboratories-packages.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Lab Sample Collection Request",
+      "url": "/pakistan/Pages/Sample-Collection.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Find Your Nearest Laboratory",
+      "url": "/pakistan/Pages/Find-a-Location.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Our Laboratory Tests",
+      "url": "/pakistan/Pages/Lab-Tests-Directory.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Medical Centres",
+      "url": "/pakistan/medical-and-diagnostics/medical-centres/medical-centres/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clifton Medical Services",
+      "url": "/pakistan/medical-and-diagnostics/medical-centres/clifton-medical-services/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Pharmacies",
+      "url": "/pakistan/medical-and-diagnostics/Pages/Pharmacies.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Health Solutions",
+      "url": "/pakistan/health-solutions/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Clinics",
+      "url": "/pakistan/health-solutions/Pages/clinics.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Health Packages",
+      "url": "/pakistan/health-solutions/Pages/healthpackages.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Treatments and Services",
+      "url": "/pakistan/health-solutions/Pages/treatmentsandservices.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Home Health Services",
+      "url": "/pakistan/health-solutions/Pages/home-health-services.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Second Opinion Services",
+      "url": "/pakistan/health-solutions/Pages/second-opinion-services.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Medical Tourism Solutions",
+      "url": "/pakistan/health-solutions/Pages/medical-tourism.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Patient Services",
+      "url": "/pakistan/ForPatientAndVisitors/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Prepare for Your Visit",
+      "url": "/pakistan/patients-families/prepare-for-your-visit/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Payment Options",
+      "url": "/pakistan/patients-families/Pages/view-payment-options.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Concierge Services",
+      "url": "/pakistan/patients-families/Pages/international-patients-concierge-services.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Referral Services",
+      "url": "/pakistan/patients-families/Pages/patient-referral-and-information-offices.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Patient Welfare",
+      "url": "/pakistan",
+      "type": "internal"
+    },
+    {
+      "text": "Welfare Support",
+      "url": "/pakistan/patients-families/welfare-zakat-assistance/Pages/welfare-programme.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Zakat Support",
+      "url": "/pakistan/patients-families/welfare-zakat-assistance/Pages/the-patients-behbud-society-for-the-aga-khan-university-hospital.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "How to Apply",
+      "url": "/pakistan/patients-families/welfare-zakat-assistance/Pages/how-to-apply.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Donate and Support",
+      "url": "https://giving.aku.edu/",
+      "type": "internal"
+    },
+    {
+      "text": "The Aga Khan University Hospital, Pakistan",
+      "url": "/pakistan/pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Health Services",
+      "url": "/pakistan/Health-Services/Pages/default.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Click",
+      "url": "/pakistan/Pages/Request-an-Appointment.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Health Records",
+      "url": "/Pakistan/patients-families/Pages/request-health-records.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Request Laboratory Reports",
+      "url": "/pakistan/patients-families/Pages/reportlogin.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Diseases Encyclopedia",
+      "url": "/pakistan/Pages/look-up-diseases.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Patient Education Material",
+      "url": "/pakistan/patients-families/Pages/patient%20educational%20material.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Patient Rights and Responsibilities",
+      "url": "/pakistan/patients-families/Documents/Patient%20Rights%20and%20Responsibilities%2C%20July%202024.pdf",
+      "type": "document"
+    },
+    {
+      "text": "Quality and Patient Safety",
+      "url": "/pakistan/AboutUs/Pages/world-class-quality-health-services.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Patient Support Groups",
+      "url": "/pakistan/patients-families/Pages/patient-support-groups.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Aga Khan University",
+      "url": "https://www.aku.edu/Pages/home.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Careers at AKU",
+      "url": "https://www.aku.edu/careers/Pages/home.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "OneAKU",
+      "url": "https://one.aku.edu/Pages/homepk.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Webmail",
+      "url": "https://mail.aku.edu/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.aku.edu%2fowa",
+      "type": "internal"
+    },
+    {
+      "text": "Sign in",
+      "url": "../_layouts/authenticate.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://hospitals.aku.edu/Pages/copyright.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://hospitals.aku.edu/Pages/PrivacyPolicy.aspx",
+      "type": "internal"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://hospitals.aku.edu/Pages/terms-of-use.aspx",
+      "type": "internal"
+    }
+  ],
+  "page_type_classification": "standard"
+}

@@ -1,0 +1,14 @@
+{
+  "scrape_metadata": {
+    "date": "2026-02-17T20:02:22.194144",
+    "total_pages": 1,
+    "pages_scraped": 1,
+    "pages_failed": 0,
+    "failed_urls": [],
+    "output_folder": "output_2026-02-17_200217"
+  },
+  "summary": {
+    "total_files": 1,
+    "file_pattern": "{number}_{title}.json"
+  }
+}
